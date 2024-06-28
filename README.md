@@ -61,6 +61,4 @@ node index.js [options]
 - [chalk](https://www.npmjs.com/package/chalk): For colored text output.
 - [ora](https://www.npmjs.com/package/ora): For spinner animation.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
