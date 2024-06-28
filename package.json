@@ -1,0 +1,23 @@
+{
+  "name": "image-optimizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "image-optimizer": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "figlet": "^1.7.0",
+    "ora": "^8.0.1",
+    "os-utils": "^0.0.14",
+    "sharp": "^0.33.4"
+  }
+}
